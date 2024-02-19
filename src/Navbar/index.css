@@ -1,0 +1,26 @@
+.adjust {
+    display: flex;
+    justify-content: space-between;
+    align-items:     center;
+    box-shadow: 2px 15px 4px 2px rgba(0, 0, 0, 0.2);
+}
+
+.nameofflex {
+    display: flex;
+    justify-content: space-between;
+    align-items:  center;
+    list-style-type: none;
+}
+
+.nameofcon {
+    display: flex;
+    justify-content: space-between;
+    align-items:  center;
+    padding-right: 20px;
+    list-style-type: none;
+}
+.Itemcontainerofchannel{
+    display: flex;
+    flex-wrap: row;
+    justify-content: space-around;
+}
